@@ -8,7 +8,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Visualisation 3:** shows how median age and the number of hospital beds per 1000 people are correlated with the number of Covid-19 deaths
    
-References:
+<br>   
+<ins> References: </ins>
 
 Data set: https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset/code 
-The data set captures the daily number of Covid-19 cases and deaths in 104 countries from 1 January 2020 to 28 February 2021.
+
+The data set documents the daily number of Covid-19 cases and deaths in 104 countries from 1 January 2020 to 28 February 2021.
